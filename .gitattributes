@@ -2,7 +2,7 @@
 
 * text=auto
 *.java linguist-language=js
-
+*.c++ linguist-language=js
 
 
 

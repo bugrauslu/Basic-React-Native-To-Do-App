@@ -1,7 +1,9 @@
 # Auto detect text files and perform LF normalization
-*.Js linguist-detectable=true
+
 * text=auto
+*.java linguist-detectable=true
 *.* linguist-detectable=false
+
 
 
 

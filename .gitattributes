@@ -2,7 +2,4 @@
 * text=auto
 *.java linguist-detectable=false
 *.c++ linguist-detectable=false
-*.Objective-C linguist-detectable=false
-*.Rubby linguist-detectable=false
-*.Starlank linguist-detectable=false
-*.Other linguist-detectable=false
+

@@ -2,7 +2,7 @@
 
 * text=auto
 *.java linguist-detectable=true
-*.* linguist-detectable=false
+
 
 
 

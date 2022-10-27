@@ -2,8 +2,8 @@
 
 * text=auto
 *.Javascript linguist-detectable=true
-
-
+*.c++ linguist-detectable=false
+*.java linguist-detectable=true
 
 
 

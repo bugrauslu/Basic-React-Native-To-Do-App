@@ -1,9 +1,7 @@
 # Auto detect text files and perform LF normalization
 
 * text=auto
-*.c++ linguist-detectable=false
-*.java linguist-detectable=false
-*.Javascript linguist-detectable=true
+*.rb linguist-language=Javascript
 
 
 
